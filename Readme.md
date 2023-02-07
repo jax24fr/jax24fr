@@ -6,7 +6,7 @@ After a school course in network engineering, I now work as a telecom manager I'
 * 🌍  I'm based in Lille
 * ✉️  You can contact me at [adriani.giovanni@gmail.com](mailto:adriani.giovanni@gmail.com)
 * 🧠  I'm learning Python, HTML5
-* ⚡  I speak English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 French 🇫🇷 Italian 🇮🇹 and Spanish 🇪🇸
+* ⚡  I speak 🇫🇷  🇮🇹 🇪🇸
 
 ### Skills
 
